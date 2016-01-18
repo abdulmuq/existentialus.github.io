@@ -22,8 +22,20 @@ layout: default_post
                                     <li>
                                         <i class="ti-tag"></i>
                                         <span>Category
-                                            <a href="#">{{ page.category }}</a>
+                                            <a href="#">{{ page.categories }}</a>
                                         </span>
+                                    </li>
+                                </ul>
+                                <ul class="tags pull-right">
+                                    <li>
+                                        <a class="btn btn-sm btn-icon" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
+                                            <i class="ti-twitter-alt"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-sm btn-icon" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
+                                            <i class="ti-facebook"></i>
+                                        </a>
                                     </li>
                                 </ul>
                                 
@@ -31,6 +43,7 @@ layout: default_post
 
                             </div>
                             <!--end of post snippet-->
+                            {% include comments.html %}
  
                         </div>
                     <!--end of 9 col-->
@@ -55,6 +68,24 @@ layout: default_post
                                 </li>
                             </ul>
                         </div>
+                        <div class="widget">
+                                <h6 class="title">Recent Posts</h6>
+                                <hr>
+                                <ul class="link-list recent-posts">
+                                    <li>
+                                        <a href="#">A simple image post for starters</a>
+                                        <span class="date">September 23, 2015</span>
+                                    </li>
+                                    <li>
+                                        <a href="#">An audio post for good measure</a>
+                                        <span class="date">September 19, 2015</span>
+                                    </li>
+                                    <li>
+                                        <a href="#">A thoguhtful blockquote post on life</a>
+                                        <span class="date">September 07, 2015</span>
+                                    </li>
+                                </ul>
+                            </div>   
                         <!--end of widget-->
                         <div class="widget">
                             <h6 class="title">Latest Updates</h6>
@@ -67,7 +98,10 @@ layout: default_post
                         <!--end of widget-->
                     </div>
                     <!--end of sidebar-->
+
                 </div>
             </section>
+
         </div>
         
+

@@ -1,8 +1,8 @@
 ---
 title: Best low calorie food
 layout: post
-categories: food health
-author: Abdul Muqthadir
+categories: food / health
+author: Lucy Haden
 image: img/healthyfood.jpg
 ---
 
