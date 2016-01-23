@@ -31,12 +31,12 @@ title: lifehacks
                                 <a class="btn btn-sm" href="{{ post.url }}">Read More</a>
                                 <ul class="tags pull-right">
                                     <li>
-                                        <a class="btn btn-sm btn-icon" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}">
+                                        <a class="btn btn-sm btn-icon" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
                                             <i class="ti-twitter-alt"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="btn btn-sm btn-icon" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}">
+                                        <a class="btn btn-sm btn-icon" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
                                             <i class="ti-facebook"></i>
                                         </a>
                                     </li>
@@ -48,38 +48,7 @@ title: lifehacks
                         <!--end of snippet-->
                     </div>
                     <!--end of row-->
-                    <div class="row">
-                        <div class="text-center">
-                            <ul class="pagination">
-                                <li>
-                                    <a href="#" aria-label="Previous">
-                                        <span aria-hidden="true">&laquo;</span>
-                                    </a>
-                                </li>
-                                <li class="active">
-                                    <a href="#">1</a>
-                                </li>
-                                <li>
-                                    <a href="#">2</a>
-                                </li>
-                                <li>
-                                    <a href="#">3</a>
-                                </li>
-                                <li>
-                                    <a href="#">4</a>
-                                </li>
-                                <li>
-                                    <a href="#">5</a>
-                                </li>
-                                <li>
-                                    <a href="#" aria-label="Next">
-                                        <span aria-hidden="true">&raquo;</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--end of row-->
+                   
 
                 </div>
         </section>
