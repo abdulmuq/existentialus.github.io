@@ -6,7 +6,7 @@ author: Lucy Haden
 image: img/highprotein.jpg
 ---
 
-![High protein](/img/highprotein2.jpg)
+![High protein](/img/highprotein3.jpg)
  
 Protein is the one nutrient on which everyone agrees upon to be an important part diet. The reason being the numerous benefits and no real disadvantages when the macro-nutrient is adequately consumed.  
 The recommended daily value of protein consumption is 0.5 grams for each pound of body weight. This recommended value is for an average person. For instance, the value goes up to 1 gram of protein for every pound of body weight for body builders, 
@@ -71,6 +71,8 @@ Nowadays gaining popularity, octopus is high in quality proteins.
 ####Halibut 
 Halibut is one of the white flesh species which is high in protein while being extremely low in fat (2g per serving). It tastes delicious too! 
 *Protein content:* 23g per 3 oz.  
+
+![High protein](/img/highprotein2.jpg)
 
 Hope you found this article useful! Please do share your thoughts!
  
