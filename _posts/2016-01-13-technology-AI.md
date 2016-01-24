@@ -16,6 +16,8 @@ Artificial intelligence has always been a subject of great interest and debate f
 Today, we've successfully created machines programmed to clean your floor, answer your reasonably complex queries and even automatically drive you around, but developing anything close to a human's 'common sense' or 'self awareness' is proving to be a near impossible task.  
 Sir Nigel Shadbolt, a Professor of Computer Science at Oxford University says, "Telling a joke, making an ethical judgment, deciding that you want to collaborate with some individuals and not others -- this rich texture of human life isn't there in our machines at all." "That spark of awareness in your head, we don't know where that comes from," says Shadbolt. He also jokes about the biggest misconception of public concerning the AI, "That it's just 10 years down the road." 
 Artificial Intelligence might be able to play chess better than you or score more grades than you did, but it's still decades away from achieving a complete human like intelligence.  
+
+![Artificial intelligence](/img/AI-future3.jpg)
  
 ####Killer robots 
  

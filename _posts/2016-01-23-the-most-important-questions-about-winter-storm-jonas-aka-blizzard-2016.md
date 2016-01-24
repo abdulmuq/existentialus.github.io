@@ -10,19 +10,17 @@ image: img/important-questions-about-winter-storm-jonas.jpg
 
 Everyone’s got questions about the winter Storm Jonas, which has already hit the east coast. It is about time to get those answers.
 
-####**Where is the winter storm Jonas?**
+####Where is the winter storm Jonas?
 
-Jonas is currently over New York,
-
-New Jersey, Philadephia, Baltimore, Washington and Coastal areas of New York.
+Jonas is currently over New York, New Jersey, Philadephia, Baltimore, Washington and Coastal areas of New York.
 
 ![Important things about winter storm Jonas aka Blizzard](/img/important-questions-about-winter-storm-jonas-3.jpg)
 
-Will Ohio get affected due to Jonas?
+####Will Ohio get affected due to Jonas?
 
 No. It doesn’ t look like Ohio will get affected.
 
-####**How do you prepare for a blizzard?**
+####How do you prepare for a blizzard?
 
 To prepare for a winter storm you should do the following:
 
@@ -30,7 +28,7 @@ To prepare for a winter storm you should do the following:
 
 When you’re locked into your home, the last thing you want to deal with is shortage of food and water. Canned food., fresh vegetables and meat. If you’re worried about power – just keep the food that you want to preserve outside your door or in your garage (closer to the outdoors). The cold is enough to preserve food.
 
-**Before storm approaches, add the following supplies to your emergency kit:**
+#####**Before storm approaches, add the following supplies to your emergency kit:**
 
 1. Rock salt or more environmentally safe products to melt ice on walkways.
 
@@ -60,25 +58,27 @@ When you’re locked into your home, the last thing you want to deal with is sho
 
 14. Adequate clothing and blankets to keep you warm.
 
-**Minimize travel.** If travel is necessary, keep a disaster supplies kit in your vehicle.
+#####**Minimize travel.** If travel is necessary, keep a disaster supplies kit in your vehicle.
 
-**Bring pets/companion animals** inside during winter weather. Move other animals or livestock to sheltered areas with non-frozen drinking water.
+#####**Bring pets/companion animals** inside during winter weather. Move other animals or livestock to sheltered areas with non-frozen drinking water.
 
-#####**Winterize Your Vehicle**
+#####**Winterize Your Vehicle.**
 
-**Check or have a mechanic check the following items on your car:**
+Check or have a mechanic check the following items on your car:
 
 *Antifreeze levels* - ensure they are sufficient to avoid freezing.
 
 *Install good winter tires on your vehicles* - Make sure the tires have adequate tread. All-weather radials are usually adequate for most winter conditions. However, some jurisdictions require that to drive on their roads, vehicles must be equipped with chains or snow tires with studs.
 
-**Get snow chains if necessary.**
+#####**Get snow chains if necessary.**
 
-**Watch for Blizzard Warning** - Sustained winds or frequent gusts to 35 miles per hour or greater and considerable amounts of falling or blowing snow (reducing visibility to less than a quarter mile) are expected to prevail for a period of three hours or longer.
+#####**Watch for Blizzard Warning** - Sustained winds or frequent gusts to 35 miles per hour or greater and considerable amounts of falling or blowing snow (reducing visibility to less than a quarter mile) are expected to prevail for a period of three hours or longer.
 
-**Get Kerosene or other fuel in the event of a power loss.**
+#####**Get Kerosene or other fuel in the event of a power loss.**
 
-####**And during the storm**
+![Important things about winter storm Jonas aka Blizzard](/img/important-questions-about-winter-storm-jonas-4.jpg)
+
+####And during the storm:
 
 1. Stay indoors during the storm.
 
@@ -107,7 +107,9 @@ caution, take breaks, push the snow instead of lifting it when possible, and lif
 
 13. Cover your mouth with a scarf to protect your lungs.
 
-#####**If a blizzard traps you in the car:**
+![Important things about winter storm Jonas aka Blizzard](/img/important-questions-about-winter-storm-jonas-5.jpg)
+
+####If a blizzard traps you in the car:
 
 1. Pull off the highway. Turn on hazard lights and hang a distress flag from the radio antenna or window.
 
