@@ -1,5 +1,5 @@
 ---
-title: Monkey’ Head Transplant Successful? Italian scientist calls on Billionaires to fund first Human Head Transplant 
+title: Monkey Head Transplant Successful? Italian scientist calls on Billionaires to fund first Human Head Transplant 
 layout: post
 categories: trending 
 author: Derek Durham
