@@ -2859,6 +2859,7 @@ img {
 .inner-title .title h4,
 .inner-title .title h5,
 .inner-title .title h6 {
+  padding: 14px;
   color: #ffffff;
 }
 .inner-title .title p,

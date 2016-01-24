@@ -76,6 +76,8 @@ Check or have a mechanic check the following items on your car:
 
 #####**Get Kerosene or other fuel in the event of a power loss.**
 
+<iframe src="https://embed.theguardian.com/embed/video/world/video/2016/jan/23/snowfall-in-washington-dc-timelapse-video" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
 ![Important things about winter storm Jonas aka Blizzard](/img/important-questions-about-winter-storm-jonas-4.jpg)
 
 ####And during the storm:
