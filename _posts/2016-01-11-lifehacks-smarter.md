@@ -6,7 +6,7 @@ author: Derek Durham
 image: img/smart.jpg
 ---
 
-![Smarter](/img/smart2.png)
+![Smarter](/img/smart2.jpg)
  
 These days, being smart in a competitive world is a grand necessity. To stand out from the already competitive crowd, people need to better themselves by putting in that extra effort. This article shows you how to do that in an easy and practical way. 
 There is a common misconception that people who are good at math are generally smarter than everyone else, but this is necessarily not the case. Others might be much better than them in creative arts or literature. Our brains are wired differently, hence, intelligence varies across various fields of study and work from person to person. 
