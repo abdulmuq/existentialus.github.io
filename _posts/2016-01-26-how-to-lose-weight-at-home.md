@@ -6,7 +6,7 @@ author: Lucy Haden
 image: img/how-to-lose-weight-at-home-6.jpg
 ---
 
-![How to lose weight at home](/img/how-to-lose-weight-at-home.jpg)
+![How to lose weight at home](/img/how-to-lose-weight-at-home-2.jpg)
  
 There is a myth that one has to join a gym, weight watchers or eat some fancy diet to lose weight. Nothing could be further from the truth. The road to weight loss begins at home. The first thing to understand is that losing weight is not a painless procedure and the second thing is that you need to change your lifestyle. Changing lifestyle should be the key and it should be a permanent change.  
  
@@ -27,7 +27,7 @@ When you change your lifestyle for losing weight, you will need to cut down on t
  
 Discontinue all commercially available drinks like soft drinks and fruit juices (yes, most of currently available fruit juices are just as bad), instead drink freshly prepared fruit/vegetable juices and water. Water is the best drink actually, it contains no additives and has no calories - duh. You can drink as much water as you want to quench your thirst. All those formulas and equations on how much water to drink are nonsense. Our body is designed to tell you when you have had enough water. You can add a dash of lime to make the water even more refreshing and rejuvinating.
 
-![How to lose weight at home](/img/how-to-lose-weight-at-home-2.jpg)
+![How to lose weight at home](/img/how-to-lose-weight-at-home.jpg)
  
 Finally if you want to lose weight at home, start today and be realistic. If it took you several years to gain some extra weight, then expect almost the same duration to lose weight without rigorous workouts. Start by becoming active at home. Do not sit and watch TV, instead do something that requires physical activity. Losing weight requires dedication and motivation. If you persist you will lose your goal.   
         
