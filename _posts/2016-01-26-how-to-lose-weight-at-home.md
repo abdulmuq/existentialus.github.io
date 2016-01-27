@@ -25,7 +25,7 @@ When you change your lifestyle for losing weight, you will need to cut down on t
 
 ![How to lose weight at home](/img/how-to-lose-weight-at-home-5.jpg) 
  
-Discontinue all commercially available drinks like soft drinks and fruit juices (yes, most of currently available fruit juices are just as bad), instead drink freshly prepared fruit/vegetable juices and water. Water is the best drink actually, it contains no additives and has no calories - duh. You can drink as much water as you want to quench your thirst. All those formulas and equations on how much water to drink are nonsense. Our body is designed to tell you when you have had enough water. You can add a dash of lime to make the water even more refreshing and rejuvinating.
+Discontinue all commercially available drinks like soft drinks and fruit juices (yes, most of currently available fruit juices are just as bad), instead drink freshly prepared fruit/vegetable juices and water. Water is the best drink actually, it contains no additives and has no calories - duh. You can drink as much water as you want to quench your thirst. All those formulas and equations on how much water to drink are nonsense. Our body is designed to tell you when you have had enough water. You can add a dash of lime to make the water even more refreshing and rejuvenating.
 
 ![How to lose weight at home](/img/how-to-lose-weight-at-home.jpg)
  
