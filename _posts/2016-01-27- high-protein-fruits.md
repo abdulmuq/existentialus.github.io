@@ -1,5 +1,5 @@
 ---
-title: High protein fruits
+title: Top 10 fruits with highest protein content
 layout: post
 categories: food / health
 author: Lucy Haden
@@ -14,7 +14,7 @@ Proteins are good substitutes for carbohydrates. They kill hunger, and prevent t
 Proteins are plentiful in non-vegetarian diets. But that does not mean a vegetarian diet will leave people deficient in proteins. There are plenty of fruits that offer enough proteins. Here is a list of 10 such fruits, which have proteins in them and can be included in the diet for their protein content.
 
 ####1. Guava
-Guavas rank highest in the list of fruits with proteins. The ratio of protein in guavas is 2.6 gram in 100 grams of this fruit, this is about 1 gram in every 26 calories. An average sized guava has 45 calories in it.
+Guavas rank highest in the list of fruits with proteins. The ratio of protein in guavas is 2.6 gram in 100 grams. That is about 1 gram in every 26 calories. An average sized guava has 45 calories in it.
 
 ![High protein fruits](/img/high-protein-fruit-2.jpg)
 
