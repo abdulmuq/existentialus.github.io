@@ -6,7 +6,7 @@ author: Lucy Haden
 image: img/salt.jpg
 ---
 
-![Salty](/img/salt2.jpg)
+![Existential - Shockingly salty food](/img/salt2.jpg)
  
 The American Heart Association and the U.S. Government recommend 1500 to 2300 milligrams of sodium intake a day, that's about 3800 - 5800 milligrams of salt (100g salt contains 38.875g sodium). The suprising thing to note is that an average American ends up consuming much more than the above mentioned levels. Here's a list of food items which you'll need to reduce intake or avoid in order to stay within the specified sodium intake limits 
  

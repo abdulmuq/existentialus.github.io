@@ -6,7 +6,7 @@ author: Derek Durham
 image: img/perfectphone.jpg
 ---
 
-![A perfect smartphone](/img/perfectphone2.jpg)
+![Existential - The perfect smartphone](/img/perfectphone2.jpg)
  
 Buying a smartphone these days is a pretty arduous task. That's particularly because of the sheer number of smartphones being pumped out by more than a hundred manufacturers every year.  
 No smartphone is really "perfect" across the board, but you can buy a phone which is perfect (or almost perfect) for YOU. Some may prefer the best performance phone, some camera, some battery, good display, and some may prefer to have all of it. 

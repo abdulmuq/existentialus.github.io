@@ -6,7 +6,7 @@ author: Derek Durham
 image: img/snowboard-with-the-NYPD-5.jpg
 ---
 
-![Snowboarding with the NYPD](/img/snowboard-with-the-NYPD-3.jpg)
+![Existential - Snowboarding with the NYPD](/img/snowboard-with-the-NYPD-3.jpg)
 
 Whilst most of the NYC was 'chilling' during the heavy snow, Casey Neistat and a fellow YouTuber Jesse Wellens decided to get adventurous. This resulted in creation of one of the most awesome and viral video this year. The youtubers along with a couple of friends set out from their studio in a Jeep Wrangler on Saturday, armed with a GoPro, several cameras, and a drone to capture their adventure. 
 
@@ -20,9 +20,9 @@ All the attention did led them to be pulled over by the cops, but listen to what
 
 "You guys are awesome," replies Neistat. 
 
-![Snowboarding with the NYPD](/img/snowboard-with-the-NYPD-2.jpg)
+![Existential - Snowboarding with the NYPD](/img/snowboard-with-the-NYPD-2.jpg)
 
-![Snowboarding with the NYPD](/img/snowboard-with-the-NYPD.jpg)
+![Existential - Snowboarding with the NYPD](/img/snowboard-with-the-NYPD.jpg)
 
 The video 'Snowboarding with the NYPD' has so far been viewed well over 5 million times. 
 

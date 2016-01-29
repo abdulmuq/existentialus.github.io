@@ -1,12 +1,12 @@
 ---
-title: Augmented Reality - Top innovations
+title: Top Augmented Reality innovations in 2015
 layout: post
 category: technology
 author: Derek Durham
 image: img/AR2016.jpg
 ---
 
-![Augmented Reality](/img/AR20162.jpg)
+![Existential - Augmented Reality](/img/AR20162.jpg)
   
 Augmented Reality (AR) provides a live physical view of real-world environment combined with computer generated input such as information, graphics, video, sound and /or GPS data. AR has been around for quite a while now, but it was only restricted to be employed for specific tasks in highly advanced industries like aviation and energy. Technology has now greatly advanced and become more glabalized.   
 Nowadays, AR is easily available to the masses generally in the form consumer electronics like smartphone and tablets, which was initially made mainstream by Sony with their AR camera. Other industries like gaming and automobile are also building some exciting and innovative products. So here's out list of the most innovative AR products currently in development. 

@@ -6,7 +6,7 @@ author: Derek Durham
 image: img/AI-future.jpg
 ---
 
-![Artificial intelligence](/img/AI-future2.jpg)
+![Existential - Artificial intelligence in the future](/img/AI-future2.jpg)
  
 Movies like Terminator, I-Robot and Ex-Machina made us directly co-relate Artificial Intelligence with humanoid robots. But, that's rarely the case. In today's world, Artificial Intelligence is vastly diversified and its applications are focussed greatly on some particular task or function, and that's mostly because we're still decades away from achieving anything close to human level Artificial Intelligence. Undoubtedly though, AI is still one of the most fascinating fields of technology right now. 
 Artificial intelligence has always been a subject of great interest and debate for past many decades, and will be for many more to come. Therefore, here's what you need to know about the major roles of AI in the near future. 

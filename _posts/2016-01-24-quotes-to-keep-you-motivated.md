@@ -16,6 +16,6 @@ Profound Quotes that will help you keep motivated this New Year.
 
 #####*“Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”* - Mark Twain
 
-![Motivation quotes](/img/quotes-to-keep-you-motivated-2.jpg)
+![Existential - Motivation quotes](/img/quotes-to-keep-you-motivated-2.jpg)
 
-![Motivation quotes](/img/quotes-to-keep-you-motivated.jpg)
+![Existential - Motivation quotes](/img/quotes-to-keep-you-motivated.jpg)

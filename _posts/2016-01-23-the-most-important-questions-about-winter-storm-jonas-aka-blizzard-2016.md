@@ -6,7 +6,7 @@ author: Derek Durham
 image: img/important-questions-about-winter-storm-jonas.jpg
 ---
 
-![Important things about winter storm Jonas aka Blizzard](/img/important-questions-about-winter-storm-jonas-2.jpg)
+![Existential - Important things about winter storm Jonas aka Blizzard](/img/important-questions-about-winter-storm-jonas-2.jpg)
 
 Everyone’s got questions about the winter Storm Jonas, which has already hit the east coast. It is about time to get those answers.
 

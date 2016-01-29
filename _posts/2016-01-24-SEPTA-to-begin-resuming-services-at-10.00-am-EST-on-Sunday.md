@@ -5,7 +5,7 @@ categories: trending
 author: Derek Durham
 image: img/SEPTA-to-begin-resuming-services-at-10.00-am-EST-on-Sunday.jpg
 ---
-![SEPTA resumes services](/img/SEPTA-to-begin-resuming-services-at-10.00-am-EST-on-Sunday-3.jpg)
+![Existential - SEPTA resumes services](/img/SEPTA-to-begin-resuming-services-at-10.00-am-EST-on-Sunday-3.jpg)
 
 With snowfalls heavier than expected, most of SEPTA's public transportation services won't begin to come back online until 10 a.m. Sunday, at the earliest.
 

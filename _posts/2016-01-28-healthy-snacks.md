@@ -6,7 +6,7 @@ author: Lucy Haden
 image: img/healthy-snacks-2.jpg
 ---
 
-![Healthy snacks](/img/healthy-snacks.jpg)
+![Existential - Healthy snacks](/img/healthy-snacks.jpg)
  
 
 There is no doubt that people love eating, especially snacks! And there is nothing wrong with that. Where the problem lies is when it comes to making the rightful and healthy choice of snacks diet especially when it regards to its nutritional value. Before delving into some of the recommended healthy snacks with their nutritional information, it is paramount to give really a brief definition of what a snack is;
@@ -33,18 +33,18 @@ So, one may ask what are healthy snacks? They are simply any snacks that fits in
 #####2. Edamame
 **Nutritional value** - 189 calories, 1g fat, 3g sugar, 8g fiber, 17g protein
 
-![Healthy snacks](/img/healthy-snacks-3.jpg)
+![Existential - Healthy snacks](/img/healthy-snacks-3.jpg)
 
 
 #####3. Crunchy Garbanzo Beans (Chickpeas)
 **Nutritional value** - 145 calories, 5.6g fat, 7.4g fiber, 5.7g protein.
 
-![Healthy snacks](/img/healthy-snacks-4.jpg)
+![Existential - Healthy snacks](/img/healthy-snacks-4.jpg)
 
 #####4. Granola
 **Nutritional value** - 120 calories, 2.2 g fat, 4g fiber, 5g sugar
 
-![Healthy snacks](/img/healthy-snacks-5.jpg)
+![Existential - Healthy snacks](/img/healthy-snacks-5.jpg)
 
 #####5. Wasabi Peas
 **Nutritional value** - 130 calories, 4g fat, 4g sugar, 1g fiber.
@@ -66,7 +66,7 @@ So, one may ask what are healthy snacks? They are simply any snacks that fits in
 **Nutritional value** - 100 calories, 1g fat, 4g protein, 2g fiber.
 
 
-*A bit more heavy one's..*
+#####*A bit more heavy one's..*
 
 #####10. Mini Pizza
 **Nutritional value** - approx. 175 calories, 5g fat, 8g protein, 2g sugar.

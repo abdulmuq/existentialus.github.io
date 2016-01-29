@@ -6,7 +6,7 @@ author: Lucy Haden
 image: img/sleepquick.jpg
 ---
 
-![Sleep quickly](/img/sleepquick2.jpg)
+![Existential - Sleep quickly](/img/sleepquick2.jpg)
 
  
 Do you have trouble falling asleep? Don't you worry, many do too! Or rather, only a few lucky one's have that magical ability to fall asleep as soon as they hit the bed. Failing to fall asleep on-time usually results in you sleeping for lesser hours than recommended (7-9 hours). This inadvertently takes a toll on various aspects of your life like job performance, relationships, and your overall health. Well, fret not! Here, we've compiled the best and simple hacks help you fall asleep quickly. 

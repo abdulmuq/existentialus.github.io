@@ -6,7 +6,7 @@ author: Derek Durham
 image: img/successful-monkey-head-transplant-funding-for-first-human-head-transplant.jpg
 ---
 
-![SEPTA resumes services](/img/successful-monkey-head-transplant-funding-for-first-human-head-transplant-4.jpg)
+![Existential - SEPTA resumes services](/img/successful-monkey-head-transplant-funding-for-first-human-head-transplant-4.jpg)
 
 A photo of a monkey with visible stitches on its neck has been making its rounds online, along with a doctor's claims that his team has taken another step closer to realising their dream of carrying out a human head transplant.
 
@@ -22,7 +22,7 @@ The procedure repeats the work of US neurosurgeon Robert White, who attempted th
 
 Dr Sergio Canevero, called on billionaires to fund a head transplant which is expected to cost in double digit millions of dollars. This despite the fact that no significant scientific studies have established the possibility of successful long term survival of patients, not to forget the fact that there are serious ethical concerns on such a procedure.
 
-![SEPTA resumes services](/img/successful-monkey-head-transplant-funding-for-first-human-head-transplant-2.jpg)
+![Existential - SEPTA resumes services](/img/successful-monkey-head-transplant-funding-for-first-human-head-transplant-2.jpg)
 
 ####Ethical Concerns
 

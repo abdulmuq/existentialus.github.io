@@ -6,7 +6,7 @@ author: Derek Durham
 image: img/timemang.jpg
 ---
 
-![Time management](/img/timemang2.jpg)
+![Existential - Time management](/img/timemang2.jpg)
   
 'Time' is your most valuable possession. Almost everything in your life depends on how you manage and make use of your time. If you look at self made millionaires and billionaires, all of them manage and make use of their time excellently. You can better or make the most of your lives, by having a proper time routine.   
 If you're having difficulties in managing, then you might find this list really helpful! 
