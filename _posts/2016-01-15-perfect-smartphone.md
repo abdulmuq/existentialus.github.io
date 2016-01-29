@@ -1,5 +1,5 @@
 ---
-title: How to buy a perfect smartphone 
+title: How to buy the perfect smartphone 
 layout: post
 categories: technology / lifehacks
 author: Derek Durham

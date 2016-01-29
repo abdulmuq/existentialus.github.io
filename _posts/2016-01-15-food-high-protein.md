@@ -1,5 +1,5 @@
 ---
-title: Top high protein food
+title: Top high protein foods
 layout: post
 categories: food / health
 author: Lucy Haden

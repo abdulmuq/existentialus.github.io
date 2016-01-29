@@ -1,5 +1,5 @@
 ---
-title: Making the best of a bad situation? YouTubers show you how -'Snowboarding with the NYPD'
+title: Making the best of a bad situation? YouTubers show you how - to go snowboarding with the NYPD
 layout: post
 categories: trending / lifehacks
 author: Derek Durham
