@@ -10,9 +10,10 @@ title: existential.us
                         <div class="spinner"></div>
                     </div>
                 </div>
-                <div class="row masonry masonryFlyIn">
+                <div class="row masonry masonryFlyIn masonry-75">
                     {% for post in site.posts %}
-                    <div class="col-md-3 col-sm-6 masonry-item project">
+                    {% unless post.categories contains 'trending' %}
+                    <div class="col-md-4 col-sm-6 masonry-item project">
                         <div class="image-tile inner-title text-center">
                             <a href="{{ post.url }}">
                                 <img alt="Pic" src="{{ post.image }}" />
@@ -23,6 +24,25 @@ title: existential.us
                             </a>
                         </div>
                     </div>
+                    {% endunless %}  
+                {% endfor %}
+                </div>
+                <div class="row masonry masonryFlyIn masonry-25">
+                    <img src="img/trending.jpg">
+                    {% for post in site.posts %}
+                    {% if post.categories contains 'trending' %}
+                    <div class="col-md-12 col-sm-6 masonry-item project">
+                        <div class="image-tile inner-title text-center">
+                            <a href="{{ post.url }}">
+                                <img alt="Pic" src="{{ post.image }}" />
+                                <div class="title">
+                                    <h5 class="uppercase mb0">{{ post.title }}</h5>
+                                    <span>{{ post.categories }}</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                {% endif %}
                 {% endfor %}
                 </div>
             </section>

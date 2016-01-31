@@ -8,3 +8,15 @@
 .pp{
 	padding-left: 8px;
 }
+
+.masonry-75{
+	width: 77.5%;
+	float: left;
+	position: relative;
+}
+
+.masonry-25{
+	width: 25%;
+	float: right;
+	position: relative;
+}
