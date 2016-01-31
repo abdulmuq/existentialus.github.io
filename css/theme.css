@@ -814,6 +814,8 @@ nav ul {
 }
 .module-group {
   display: inline-block;
+  padding-right: 230px;
+  position: relative;
 }
 .module.left,
 .module-group.left {
@@ -844,7 +846,6 @@ nav .btn,
   line-height: 80px;
   border-bottom: 1px solid #ccc;
   text-align: center;
-  padding-right: 230px;
 }
 .nav-bar .module,
 .nav-bar .module-group {
