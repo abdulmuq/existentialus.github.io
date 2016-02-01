@@ -811,15 +811,17 @@ nav ul {
 .module {
   display: inline-block;
   padding: 0 32px;
+  position: relative;
 }
 .module-group {
   display: inline-block;
-  padding-right: 230px;
   position: relative;
+  padding-right: 270px;
 }
 .module.left,
 .module-group.left {
   float: left;
+  position: relative;
 }
 .module.right,
 .module-group.right {
@@ -857,6 +859,8 @@ nav .btn,
 }
 .logo {
   max-height: 100%;
+  padding-left: 33.5px;
+  position: relative;
 }
 .logo-light {
   display: none;
@@ -886,6 +890,7 @@ nav.bg-dark .logo-dark {
 .menu {
   width: 100%;
   height: 55px;
+  position: relative;
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .menu.inline-block {
