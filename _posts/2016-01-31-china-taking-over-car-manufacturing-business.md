@@ -1,7 +1,7 @@
 ---
 title: The West used to make the best cars. China now has the lead and is taking over the world.
 layout: post
-categories: technology / trends
+categories: technology / trending
 author: Derek Durham 
 image: /img/china-manufactured-cars-1.jpg
 ---

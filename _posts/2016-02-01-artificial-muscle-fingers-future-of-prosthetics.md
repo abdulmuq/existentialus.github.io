@@ -1,7 +1,7 @@
 ---
 title: Swiss scientist's artificial muscle fingers could be the future of prosthetics
 layout: post
-categories: technology / trends
+categories: technology / trending
 author: Derek Durham 
 image: /img/artificial-muscle-finger-1.jpg
 ---
