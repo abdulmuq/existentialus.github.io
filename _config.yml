@@ -1,9 +1,8 @@
 Name: existential.us
 Description: Helping bring meaning to people's existence
-url: http://existential.us
+#url: http://existential.us
 port: 4000
 permalink: date
 categories: [lifehacks, health, food, technology]
 google_analytics: UA-72221479-1
-include: [c50ddc4576d290b5fd3f067393b05fbf.html]
 # paginate: 50
