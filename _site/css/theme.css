@@ -146,6 +146,7 @@ hr {
 }
 .container {
   position: relative;
+  margin-top: 50px;
 }
 @media all and (max-width: 1100px) {
   .col-md-push-1 {
