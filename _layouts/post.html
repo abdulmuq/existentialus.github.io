@@ -46,8 +46,17 @@ layout: default_post
                             <!--end of post snippet-->
                             {% include comments.html %}
 
-<ins class="adbladeads" data-cid="19005-3737007128" data-host="web.adblade.com" data-tag-type="4" style="display:none"></ins>
-<script async src="http://web.adblade.com/js/ads/async/show.js" type="text/javascript"></script>
+<script type="text/javascript">
+  ( function() {
+    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+    var unit = {"calltype":"async[2]","publisher":"existential","width":728,"height":90,"sid":"banner"};
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
+</script>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
+
  
                         </div>
                     <!--end of 9 col-->
