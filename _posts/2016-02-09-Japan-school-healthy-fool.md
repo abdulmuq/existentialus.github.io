@@ -3,7 +3,7 @@ title: Is healthy food in schools a Myth? Well, not in Japan!
 layout: post
 categories: food / health
 author: Lucy Haden
-image: img/Japan-school-healthy-fool-2.jpg
+image: /img/Japan-school-healthy-fool-2.jpg
 ---
 
 ![Existential - Is healthy food in schools a Myth? Well, not in Japan!](/img/Japan-school-healthy-fool.jpg)

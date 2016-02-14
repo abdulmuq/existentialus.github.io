@@ -3,7 +3,7 @@ title: Monkey Head Transplant Successful? Italian scientist calls on Billionaire
 layout: post
 categories: trending 
 author: Derek Durham
-image: img/successful-monkey-head-transplant-funding-for-first-human-head-transplant.jpg
+image: /img/successful-monkey-head-transplant-funding-for-first-human-head-transplant.jpg
 ---
 
 ![Existential - SEPTA resumes services](/img/successful-monkey-head-transplant-funding-for-first-human-head-transplant-4.jpg)

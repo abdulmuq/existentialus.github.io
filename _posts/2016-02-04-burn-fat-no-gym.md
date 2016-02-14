@@ -3,7 +3,7 @@ title: Burn fat at home (No gym)
 layout: post
 categories: health / lifehacks
 author: Derek Durham
-image: img/burn-fat-no-gym-1.jpg
+image: /img/burn-fat-no-gym-1.jpg
 ---
 
 ![Existential - Burn fat without gym](/img/burn-fat-no-gym.jpg)

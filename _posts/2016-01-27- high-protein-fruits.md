@@ -3,7 +3,7 @@ title: Top 10 fruits with highest protein content
 layout: post
 categories: food / health
 author: Lucy Haden
-image: img/high-protein-fruit-1.jpg
+image: /img/high-protein-fruit-1.jpg
 ---
 
 ![Existential - High protein fruits](/img/high-protein-fruit.jpg)

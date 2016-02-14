@@ -3,7 +3,7 @@ title: How do you lose weight at home?
 layout: post
 categories: health / lifehacks
 author: Lucy Haden
-image: img/how-to-lose-weight-at-home-6.jpg
+image: /img/how-to-lose-weight-at-home-6.jpg
 ---
 
 ![Existential - How to lose weight at home](/img/how-to-lose-weight-at-home-2.jpg)

@@ -3,7 +3,7 @@ title: Best healthy snacks
 layout: post
 categories: food / health
 author: Lucy Haden
-image: img/healthy-snacks-2.jpg
+image: /img/healthy-snacks-2.jpg
 ---
 
 ![Existential - Healthy snacks](/img/healthy-snacks.jpg)
