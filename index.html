@@ -4,7 +4,7 @@ title: existential.us
 ---
 
         <div class="main-container">		
-			<section class="projects p0 bg-dark">   
+			<section class="projects p0 bg-dark">
                 <div class="row masonry-loader fixed-center">
                     <div class="col-sm-12 text-center">
                         <div class="spinner"></div>
@@ -12,19 +12,17 @@ title: existential.us
                 </div>
                 <div class="row masonry">
                     {% for post in site.posts %}
-                    <div class="col-md-3 col-sm-6 masonry-item project">
+                    <div class="col-md-4 col-sm-6 masonry-item project">
                         <div class="image-tile inner-title text-center">
                             <a href="{{ post.url }}">
                                 <img alt="Pic" src="{{ post.image }}" />
                                 <div class="title">
                                     <h5 class="uppercase mb0">{{ post.title }}</h5>
-                                    <span>{{ post.categories }}</span>
                                 </div>
                             </a>
                         </div>
                     </div>
                 {% endfor %}
                 </div>
-
             </section>
         </div>

@@ -1,5 +1,5 @@
 ---
-title: Burn fat at home (No gym) 
+title: How to easilyBurn fat at home (No gym) 
 layout: post
 categories: health / lifehacks
 author: Derek Durham
@@ -8,12 +8,12 @@ image: /img/burn-fat-no-gym-1.jpg
 
 ![Existential - Burn fat without gym](/img/burn-fat-no-gym.jpg)
    
-Today's sedentary lifestyles is leading an increased percentage obese human population. Obesity is turn leads to a wide array of health problems, ranging from heart disease to diabetes. According to the Journal of American Medicine (JAMA), 34.9% of present-day American's are obese. The only reliable and ethical solution to fight obesity is to start working out, and no place is better to do so than at the gym.   
+Today's sedentary lifestyles are leading to an alarming increase in the number of obese population. Obesity in turn leads to a wide array of health problems, ranging from heart disease to diabetes. According to the Journal of American Medicine (JAMA), 34.9% of present-day American's are obese. The only reliable and ethical solution to fight obesity is to start working out, and no place is better to do so than at the gym.   
 
-But with today's fast moving lifestyles, not everyone has the time to got to gym, and those who do, might not necessarily have easy access to the gym or proper pavements to go jogging. In such cases working out at home is the best option.  
-You might wonder: how does one burn fat without lifting weight or sweating it out on the treadmill? Well, you easily burn chunks on fat by doing some simple core exercises.
+But with today's fast moving lifestyles, many cannot afford the time to got to gym, and those who do, might not necessarily have an easy access to the gym or a proper pavements to go jogging. In such cases, working out at home is probably the best option.  
+You might wonder: how does one burn fat without lifting weight or sweating it out on the treadmill? Well, you can easily burn chunks of fat by doing some simple core exercises.
 
-So, here's a 3 minutes fat burning core workout routine (Beginner guide included). This routine consists of 6 types of simple exercises. Do each of the exercises for 20 seconds followed by a 10 second break. To burn good deal of fat, do this routine 4-5 times. A video demonstration is present at the end of this article. 
+So, here's a 3 minutes fat burning core workout routine (Beginner guide included). This routine consists of 6 types of simple exercises, each needs to be done for 20 seconds followed by a 10 second break. To burn good deal of fat, do this routine 4-5 times. A video demonstration is present at the end of this article. 
 
 #####**Exercise 1 – Side to side push-ups**
 1. Assume a push-up position with your body straight, supported by your extended arms. Your hands should be outside of shoulder width. This will be your starting position. 
