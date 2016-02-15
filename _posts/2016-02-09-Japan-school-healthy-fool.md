@@ -3,10 +3,10 @@ title: Is healthy school meal a Myth? Not in Japan!
 layout: post
 categories: food / health
 author: Lucy Haden
-image: /img/Japan-school-healthy-fool-2.jpg
+image: /img/Japan-school-healthy-food-2.jpg
 ---
 
-![Existential - Is healthy food in schools a Myth? Well, not in Japan!](/img/Japan-school-healthy-fool-1.jpg)
+![Existential - Is healthy food in schools a Myth? Well, not in Japan!](/img/Japan-school-healthy-food-1.jpg)
  
 Is healthy school meal a Myth? Well, not in Japan! 
 
@@ -16,7 +16,7 @@ An elementary school from Saitama – Japan has a 45 minutes "lunch break" break
 
 What started out as an educational video about lunch break in a Japanese school has now turned into a full on discussion about the quality of lunch in American schools. People on the internet is blown away by the school’s care and efficiency when it comes to health and food, along with the student’s genuine appreciation for their delicious meals and hard work going into them.  
 
-![Existential - Is healthy food in schools a Myth? Well, not in Japan!](/img/Japan-school-healthy-fool.jpg)
+![Existential - Is healthy food in schools a Myth? Well, not in Japan!](/img/Japan-school-healthy-food.jpg)
 
 Here's what some of the popular YouTube commenters say:  
 
