@@ -36,17 +36,20 @@
  32. Countdown
  33. Maps
  34. Twitter
- 35. Footers
+ 35. Foot0.9px
  36. Spacing
 
 /*!---------- 1. GLOBAL STYLES ----------*/
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 24px;
-  line-height: 24px;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #4f4f4f;
+  font-size: 18px;
+  font-family: "Quattrocento Sans";
+  line-height: 34px;
+  letter-spacing: 0.4px;
+  word-spacing: 5px;
+  font-weight: 500;
+  color: #2b2b2b;
 }
 body.boxed-layout {
   background: #eee;
@@ -276,7 +279,6 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1,
 h2,
@@ -286,6 +288,8 @@ h5,
 h6 {
   font-weight: 300;
   color: #292929;
+  font-family: "Fredoka"
+
 }
 h1,
 .h1 {
@@ -314,6 +318,7 @@ h3 {
 h4 {
   font-size: 24px;
   line-height: 32px;
+  font-family: "Fredoka one";
 }
 h5 {
   font-size: 16px;
@@ -426,33 +431,36 @@ a:hover {
   outline: none;
 }
 a {
-  font-weight: 600;
-  color: #47b475;
+    font-family: "montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  font-weight: 200;
+  color:gray;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   cursor: poitner;
 }
 .image-bg a {
-  color: #fff;
+  color: gray;
 }
 .image-bg a:hover {
   color: #fff;
   opacity: .9;
+  background-color: black;
 }
 .bg-light a {
-  color: #47b475;
+  color: gray;
 }
 .bg-light a:hover {
-  color: #47b475;
+  color: gray;
   opacity: 1;
-}
+}l
 a:hover {
   color: #398f5d;
   text-decoration: none;
 }
 .label {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fredoka one", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -460,7 +468,7 @@ a:hover {
   letter-spacing: 2px;
   font-weight: 700;
   letter-spacing: 1px;
-  background: #47b475;
+  background: gray;
   border-radius: 0;
   padding: 6px 12px;
   font-size: 10px;
@@ -534,7 +542,7 @@ footer {
   overflow: hidden;
 }
 footer {
-  padding: 72px 0;
+  padding: 60px 50px;
 }
 .fullscreen {
   height: 100vh;
@@ -679,7 +687,7 @@ footer.bg-dark li,
 /*!---------- 6. BUTTONS ----------*/
 .btn {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  border: 2px solid #47b475;
+  border: 2px solid gray;
   padding: 0 26px;
   height: 40px;
   min-width: 150px;
@@ -689,7 +697,7 @@ footer.bg-dark li,
   text-transform: uppercase;
   letter-spacing: 1px;
   border-radius: 0;
-  color: #47b475;
+  color: #55a7f2;
   text-align: center;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -702,7 +710,7 @@ footer.bg-dark li,
   margin-right: 0;
 }
 .btn:hover {
-  background: #47b475;
+  background: black;
   color: #fff;
 }
 .btn-icon {
@@ -777,7 +785,7 @@ body.btn-rounded .btn {
   color: #222;
 }
 .btn:visited {
-  color: #47b475;
+  color: gray;
 }
 .btn-white:visited,
 .btn:visited:hover {
@@ -2644,7 +2652,13 @@ form iframe.mail-list-form {
   margin-bottom: 48px;
 }
 .link-list {
-  line-height: 32px;
+  line-height: 30px;
+  font-size: 16px;
+  font-family: "Quattrocento Sans";
+  letter-spacing: 0.3px;
+  word-spacing: 5px;
+  font-weight: 500;
+  color: #2b2b2b;
 }
 .link-list a:after {
   content: "\e628";
@@ -3753,7 +3767,7 @@ video {
   top: 2px;
 }
 .post-snippet iframe {
-  width: 100%;
+  width: 75%;
   margin-bottom: 12px;
 }
 .post-snippet .embed-video-container {

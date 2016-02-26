@@ -6,14 +6,16 @@ layout: default_post
             <section>
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-9 col-md-push-3 mb-xs-24">
+                        <div class="col-md-9 mb-xs-24">
 
                             <div class="post-snippet mb8">
                                 <div class="post-title">
-                                    <span class="label">{{ page.date | date_to_string }}</span>
                                     <h4 class="inline-block">{{ page.title }}</h4>
                                 </div>
-                                <ul class="post-meta">
+                                <ul class="post-meta post-author-size">
+                                    <li>
+                                        <span class="label">{{ page.date | date_to_string }}</span>
+                                    </li>
                                     <li>
                                         <i class="ti-user"></i>
                                         <span>Written by
@@ -49,7 +51,7 @@ layout: default_post
  
                         </div>
                     <!--end of 9 col-->
-                    <div class="col-md-3 col-md-pull-9 hidden-sm">
+                    <div class="col-md-3 hidden-sm">
                         
                         <!--end of widget-->
                         <div class="widget">

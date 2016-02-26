@@ -23,3 +23,20 @@
 .logo-categories{
 	padding-left: 33.5px;
 }
+
+/* experiment index */
+.index-masonry{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+/* post */
+.post-author-size{
+	font-size: 15px;
+}
+
+/* index masonry */
+.index-title-font{
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}

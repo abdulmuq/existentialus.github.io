@@ -12,7 +12,103 @@ title: existential.us
                 </div>
                 <div class="row masonry">
                     {% for post in site.posts %}
-                    <div class="col-md-4 col-sm-6 masonry-item project">
+                    <div class="col-md-3 col-sm-6 masonry-item project">
+                        <div class="image-tile inner-title text-center">
+                            <a href="{{ post.url }}">
+                                <img alt="Pic" src="{{ post.image }}" />
+                                <div class="title">
+                                    <h5 class="uppercase mb0 index-title-font">{{ post.title }}</h5>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                {% endfor %}
+                </div>
+            </section>
+        </div> 
+
+
+<!--    <div class="main-container">
+           
+            <section class="bg-secondary">
+                <div class="container blog-mason">
+                    <div class="row masonry-loader">
+                        <div class="col-sm-12 text-center">
+                            <div class="spinner"></div>
+                        </div>
+                    </div>
+                    <div class="row masonry masonryFlyIn">
+                        {% for post in site.posts limit:1 %}
+                        <div class="col-sm-5 post-snippet masonry-item">
+                            <a href="{{ post.url }}">
+                                <img alt="Post Image" src="{{ post.image }}" />
+                            </a>
+                            <div class="inner">
+                                <a href="{{ post.url }}">
+                                    <h5 class="mb0">{{ post.title }}</h5>
+                                    <span class="inline-block mb16">{{ post.date | date_to_string }}</span>
+                                </a>
+                                <hr>
+                                <p>
+                                    {{ post.content | strip_html | truncatewords: 30 }}
+                                </p>
+                                <a class="btn btn-sm" href="{{ post.url }}">Read More</a>
+                                <ul class="tags pull-right">
+                                    <li>
+                                        <a class="btn btn-sm btn-icon" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
+                                            <i class="ti-twitter-alt"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-sm btn-icon" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
+                                            <i class="ti-facebook"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-3 post-snippet masonry-item">
+                            <a href="{{ post.url }}">
+                                <img alt="Post Image" src="{{ post.image }}" />
+                            </a>
+                            <div class="inner">
+                                <a href="{{ post.url }}">
+                                    <h5 class="mb0">{{ post.title }}</h5>
+                                    <span class="inline-block mb16">{{ post.date | date_to_string }}</span>
+                                </a>
+                                <hr>
+                                <p>
+                                    {{ post.content | strip_html | truncatewords: 30 }}
+                                </p>
+                                <a class="btn btn-sm" href="{{ post.url }}">Read More</a>
+                                <ul class="tags pull-right">
+                                    <li>
+                                        <a class="btn btn-sm btn-icon" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
+                                            <i class="ti-twitter-alt"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-sm btn-icon" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
+                                            <i class="ti-facebook"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        {% endfor %}
+                     
+                 </div>
+                    
+                    
+
+                </div>
+        </section>
+
+        <section class="projects pt48">
+            <div class="index-masonry">
+                <div class="row masonry">
+                    {% for post in site.posts limit:4 %}
+                    <div class="col-md-3 col-sm-6 masonry-item project">
                         <div class="image-tile inner-title text-center">
                             <a href="{{ post.url }}">
                                 <img alt="Pic" src="{{ post.image }}" />
@@ -26,3 +122,5 @@ title: existential.us
                 </div>
             </section>
         </div>
+    </div>    
+-->
