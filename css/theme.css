@@ -288,7 +288,7 @@ h5,
 h6 {
   font-weight: 300;
   color: #292929;
-  font-family: "Fredoka one";
+  font-family: "Fredoka"
 
 }
 h1,
@@ -5040,3 +5040,4 @@ footer.bg-dark a {
     padding-bottom: 120px;
   }
 }
+
